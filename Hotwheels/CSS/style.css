@@ -1,0 +1,105 @@
+*{
+    font-family:Roboto;
+
+}
+.title{
+    height: 200px;
+    width: 300px;
+     margin-top: 20px; 
+    padding-left: 600px;
+   
+}
+
+button{
+    margin-left: 450px;
+    height: 50px;
+    width: 600px;
+    border-radius: 30px;
+    border: 3px solid black;
+}
+.Searchbar{
+    color: black;
+    font-size: large;
+}
+.img{
+    margin-left: 432px;
+    padding-top: 50px;
+
+}
+h1{
+    font-weight: 800;
+    margin-left: 20px;
+    padding-top: 30px;
+    
+}
+h2{
+    margin-left: 30px;
+}
+
+
+.container{
+    display: flex;
+    align-items: center;
+    height: 600px;
+    justify-content: space-around;
+    
+  
+}
+.box1{
+    height: 600px;
+    width: 400px;
+    background-color: black;
+    
+   
+}
+.box2{
+    height: 600px;
+    width: 400px;
+    background-color: black;
+   
+    
+   
+}
+.box3{
+    height: 600px;
+    width: 400px;
+    background-color: black; 
+   
+    
+}
+
+    
+.i1, .i2, .i3{
+    height: 350px;
+    width: 350px;
+    padding: 30px;
+} 
+p{
+    color: white;
+    padding-left: 10px;
+    margin-left: 20px;
+}
+.in1{
+   display: flex;
+   margin: 100px;
+   padding-top: 30px;
+}
+.in2{
+    width: 900px;
+    height: 600px;
+    margin-top: 50px;
+}
+
+
+
+.bg{
+    background-color: black;
+    margin-top: 30px;
+    height: 900px;
+    width: 100%;
+}
+.items{
+    padding-left: 900px;
+    color: wheat;
+    line-height: 2;
+}
